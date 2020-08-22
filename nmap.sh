@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script made to assist in the studying of nmap and it's flag functionality.
-# Written by Jack Rafter.
+# Written by Rafterman29.
 echo "Welcome to the nmap study script."
 echo "Please enter your answers based on the exact specification"
 # Display the help page if option -h is used or known option is not recognized.
