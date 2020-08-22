@@ -1,2 +1,10 @@
-# Study-Scripts.
-Will include different scripts that are implemented to run as flashcards to study the different flags of commands.
+# Personal-Projects
+Peronal Projects is a library for projects created by Rafterman29.
+
+## Linux and Bash
+
+Study Scripts ->
+This work is simply a way to help other and I memorize    the different flags and implementations.
+  
+In-Progress: nmap.sh
+Future Work: hydra.sh, netcat.sh, gobuster.sh
