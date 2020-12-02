@@ -6,5 +6,13 @@ Peronal Projects is a library for projects created by Rafterman29.
 Study Scripts ->
 This work is simply a way to help others and I memorize the different flags and implementations.
   
-In-Progress: nmap.sh
-Future Work: hydra.sh, netcat.sh, gobuster.sh
+### In-Progress: 
+nmap.sh
+
+###Future Work: 
+
+For Bash: hydra.sh, netcat.sh, gobuster.sh
+
+C:
+
+Java: 
