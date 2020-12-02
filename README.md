@@ -11,8 +11,11 @@ nmap.sh
 
 ### Future Work: 
 
-For Bash: hydra.sh, netcat.sh, gobuster.sh
+Bash: hydra.sh, netcat.sh, gobuster.sh
 
 C:
 
 Java: 
+
+
+### (Post Project Scrap) All scripts and personal projects on hold until Spring 2021
